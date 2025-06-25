@@ -9,7 +9,7 @@ This project performs exploratory sentiment analysis on a combined Twitter datas
 
 - `twitter_training.csv` – labeled training data (ID, Topic, Sentiment, Tweet)
 - `twitter_validation.csv` – labeled validation data
-- Source: [Sentiment Analysis on Twitter Dataset ()](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+- Source: [Sentiment Analysis on Twitter Dataset ](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 
 ---
 
