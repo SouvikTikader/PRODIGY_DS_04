@@ -42,7 +42,7 @@ After cleaning:
 
 ```bash
 git clone https://github.com/SouvikTikader/twitter_sentiment_analysis.git
-cd twitter_sentiment_analysis
+cd PRODIGY_DS_04
 ```
 
 ### Install Required Packages
