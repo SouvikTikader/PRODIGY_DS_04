@@ -41,7 +41,7 @@ After cleaning:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SouvikTikader/twitter_sentiment_analysis.git
+git clone https://github.com/SouvikTikader/PRODIGY_DS_04.git
 cd PRODIGY_DS_04
 ```
 
